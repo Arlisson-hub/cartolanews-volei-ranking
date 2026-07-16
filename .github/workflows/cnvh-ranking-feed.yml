@@ -20,12 +20,26 @@ jobs:
         env:
           CNVH_RANKING_MALE_URL: ${{ secrets.CNVH_RANKING_MALE_URL }}
           CNVH_RANKING_FEMALE_URL: ${{ secrets.CNVH_RANKING_FEMALE_URL }}
-        run: php tools/github-authorized-ranking-feed.php
+        shell: bash
+        run: |
+          if [ -f "tools/github-authorized-ranking-feed.php" ]; then
+            SCRIPT="tools/github-authorized-ranking-feed.php"
+          elif [ -f "cartolanews-volei-hub/tools/github-authorized-ranking-feed.php" ]; then
+            SCRIPT="cartolanews-volei-hub/tools/github-authorized-ranking-feed.php"
+          else
+            echo "ERRO: github-authorized-ranking-feed.php não foi encontrado."
+            echo "Arquivos presentes no repositório:"
+            find . -maxdepth 4 -type f -not -path './.git/*' | sort
+            exit 1
+          fi
+          echo "Executando: ${SCRIPT}"
+          php "${SCRIPT}"
       - name: Publicar alterações
+        shell: bash
         run: |
           git config user.name "cnvh-ranking-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add generated-rankings/*.json
+          git add generated-rankings/*.json 2>/dev/null || true
+          git add cartolanews-volei-hub/generated-rankings/*.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Atualiza rankings autorizados"
           git push
-
