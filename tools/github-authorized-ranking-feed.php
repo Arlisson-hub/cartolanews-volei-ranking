@@ -8,6 +8,8 @@ declare(strict_types=1);
 $root = dirname(__DIR__);
 $output = $root . '/generated-rankings';
 $failures = [];
+$configured = 0;
+$written = 0;
 
 if (!is_dir($output) && !mkdir($output, 0775, true) && !is_dir($output)) {
     fwrite(STDERR, "::error::Não foi possível criar generated-rankings.\n");
@@ -22,6 +24,7 @@ foreach (['male' => 'CNVH_RANKING_MALE_URL', 'female' => 'CNVH_RANKING_FEMALE_UR
     }
 
     try {
+        $configured++;
         if (!filter_var($url, FILTER_VALIDATE_URL) || !str_starts_with($url, 'https://')) {
             throw new RuntimeException("{$variable} deve conter uma URL HTTPS válida.");
         }
@@ -66,6 +69,7 @@ foreach (['male' => 'CNVH_RANKING_MALE_URL', 'female' => 'CNVH_RANKING_FEMALE_UR
             throw new RuntimeException("Não foi possível gravar generated-rankings/{$gender}.json.");
         }
         fwrite(STDOUT, "Feed {$gender}: " . count($data['teams']) . " equipes validadas.\n");
+        $written++;
     } catch (Throwable $error) {
         $host = parse_url($url, PHP_URL_HOST) ?: 'fonte desconhecida';
         $message = "{$variable} ({$host}): " . $error->getMessage();
@@ -74,10 +78,18 @@ foreach (['male' => 'CNVH_RANKING_MALE_URL', 'female' => 'CNVH_RANKING_FEMALE_UR
     }
 }
 
+if ($configured === 0 && !is_file($output . '/male.json') && !is_file($output . '/female.json')) {
+    fwrite(STDERR, "::error::Nenhuma URL de origem foi configurada e não existem rankings gerados anteriormente.\n");
+    fwrite(STDERR, "Cadastre CNVH_RANKING_MALE_URL e/ou CNVH_RANKING_FEMALE_URL apontando para JSON válido.\n");
+    exit(1);
+}
+
 if ($failures) {
     fwrite(STDERR, "\nFalha em " . count($failures) . " feed(s). Os arquivos válidos anteriores foram preservados.\n");
     exit(1);
 }
+
+fwrite(STDOUT, "Resumo: {$configured} feed(s) configurado(s), {$written} arquivo(s) atualizado(s).\n");
 
 function extract_http_status(array $headers): int {
     $status = 0;
