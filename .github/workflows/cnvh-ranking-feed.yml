@@ -1,4 +1,4 @@
-name: Atualizar feeds autorizados de ranking
+name: Atualizar rankings públicos de vôlei
 
 on:
   workflow_dispatch:
@@ -13,33 +13,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: shivammathur/setup-php@v2
+      - uses: actions/setup-python@v5
         with:
-          php-version: '8.2'
-      - name: Baixar e validar feeds licenciados
-        env:
-          CNVH_RANKING_MALE_URL: ${{ secrets.CNVH_RANKING_MALE_URL }}
-          CNVH_RANKING_FEMALE_URL: ${{ secrets.CNVH_RANKING_FEMALE_URL }}
+          python-version: '3.12'
+      - name: Gerar rankings de quadra e praia
         shell: bash
         run: |
-          if [ -f "tools/github-authorized-ranking-feed.php" ]; then
-            SCRIPT="tools/github-authorized-ranking-feed.php"
-          elif [ -f "cartolanews-volei-hub/tools/github-authorized-ranking-feed.php" ]; then
-            SCRIPT="cartolanews-volei-hub/tools/github-authorized-ranking-feed.php"
+          if [ -f "tools/update-public-rankings.py" ]; then
+            SCRIPT="tools/update-public-rankings.py"
+          elif [ -f "cartolanews-volei-hub/tools/update-public-rankings.py" ]; then
+            SCRIPT="cartolanews-volei-hub/tools/update-public-rankings.py"
           else
-            echo "ERRO: github-authorized-ranking-feed.php não foi encontrado."
-            echo "Arquivos presentes no repositório:"
-            find . -maxdepth 4 -type f -not -path './.git/*' | sort
+            echo "::error::tools/update-public-rankings.py não encontrado."
             exit 1
           fi
-          echo "Executando: ${SCRIPT}"
-          php "${SCRIPT}"
-      - name: Publicar alterações
+          python "$SCRIPT"
+      - name: Publicar JSONs
         shell: bash
         run: |
           git config user.name "cnvh-ranking-bot"
           git config user.email "actions@users.noreply.github.com"
           git add generated-rankings/*.json 2>/dev/null || true
           git add cartolanews-volei-hub/generated-rankings/*.json 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "Atualiza rankings autorizados"
+          git diff --cached --quiet || git commit -m "Atualiza rankings de vôlei"
           git push
