@@ -4,7 +4,7 @@
   "gender": "female",
   "source": "BeachUp",
   "source_url": "https://www.beachup.app/pt/volei-praia-classificacao-mundial-mulheres/",
-  "updated_at": "2026-07-06T00:00:00+00:00",
+  "updated_at": "2026-07-20T00:00:00+00:00",
   "teams": [
     {
       "rank": 1,
@@ -37,8 +37,8 @@
     {
       "rank": 5,
       "country_code": "LAT",
-      "name": "Tina/Anastasija",
-      "played": 12,
+      "name": "Tina Graudina/Anastasija Samoilova",
+      "played": 13,
       "points": 7180.0
     },
     {
@@ -52,14 +52,14 @@
       "rank": 7,
       "country_code": "GER",
       "name": "Müller/Tillmann",
-      "played": 12,
+      "played": 11,
       "points": 6680.0
     },
     {
       "rank": 8,
       "country_code": "ITA",
       "name": "Gottardi/Orsi Toth, R.",
-      "played": 11,
+      "played": 12,
       "points": 6580.0
     },
     {
@@ -73,7 +73,7 @@
       "rank": 10,
       "country_code": "GER",
       "name": "Sandra/Anna",
-      "played": 17,
+      "played": 15,
       "points": 5580.0
     },
     {
@@ -87,7 +87,7 @@
       "rank": 12,
       "country_code": "LTU",
       "name": "Paulikiene/Raupelyte",
-      "played": 16,
+      "played": 15,
       "points": 5180.0
     },
     {
@@ -101,7 +101,7 @@
       "rank": 14,
       "country_code": "AUT",
       "name": "Klinger D./Klinger R.",
-      "played": 14,
+      "played": 15,
       "points": 4720.0
     },
     {
@@ -115,8 +115,8 @@
       "rank": 16,
       "country_code": "BRA",
       "name": "Taiana Lima/Talita",
-      "played": 11,
-      "points": 4616.0
+      "played": 9,
+      "points": 4612.0
     },
     {
       "rank": 17,
@@ -129,7 +129,7 @@
       "rank": 18,
       "country_code": "ITA",
       "name": "Scampoli/Bianchi",
-      "played": 14,
+      "played": 15,
       "points": 4500.0
     },
     {
@@ -143,14 +143,14 @@
       "rank": 20,
       "country_code": "GER",
       "name": "Bock/Lippmann",
-      "played": 11,
+      "played": 10,
       "points": 4360.0
     },
     {
       "rank": 21,
       "country_code": "UKR",
       "name": "Davidova/Khmil",
-      "played": 10,
+      "played": 11,
       "points": 4280.0
     },
     {
@@ -197,51 +197,51 @@
     },
     {
       "rank": 28,
-      "country_code": "ESP",
-      "name": "Dani/Tania",
-      "played": 7,
-      "points": 3936.0
-    },
-    {
-      "rank": 29,
       "country_code": "LTU",
       "name": "Dumbauskaite/Grudzinskaite G.",
-      "played": 11,
+      "played": 12,
       "points": 3900.0
     },
     {
-      "rank": 29,
+      "rank": 28,
       "country_code": "USA",
       "name": "Kraft/Cheng",
       "played": 5,
       "points": 3900.0
     },
     {
-      "rank": 31,
+      "rank": 30,
       "country_code": "JPN",
       "name": "Shiba/Reika",
       "played": 20,
       "points": 3820.0
     },
     {
-      "rank": 31,
+      "rank": 30,
       "country_code": "USA",
       "name": "Shaw/Cheng",
       "played": 4,
       "points": 3820.0
     },
     {
-      "rank": 33,
+      "rank": 32,
       "country_code": "NZL",
       "name": "Polley/MacDonald",
       "played": 17,
       "points": 3800.0
     },
     {
-      "rank": 34,
+      "rank": 33,
+      "country_code": "ESP",
+      "name": "Dani/Tania",
+      "played": 6,
+      "points": 3680.0
+    },
+    {
+      "rank": 33,
       "country_code": "GER",
       "name": "Paul/Kunst",
-      "played": 13,
+      "played": 12,
       "points": 3680.0
     },
     {
@@ -302,23 +302,23 @@
     },
     {
       "rank": 43,
+      "country_code": "UKR",
+      "name": "Serdiuk/Romaniuk",
+      "played": 11,
+      "points": 3376.0
+    },
+    {
+      "rank": 44,
       "country_code": "USA",
       "name": "Harward/Phillips",
       "played": 7,
       "points": 3300.0
     },
     {
-      "rank": 44,
-      "country_code": "UKR",
-      "name": "Serdiuk/Romaniuk",
-      "played": 9,
-      "points": 3296.0
-    },
-    {
       "rank": 45,
       "country_code": "SUI",
       "name": "Annique/Menia",
-      "played": 16,
+      "played": 17,
       "points": 3200.0
     },
     {
@@ -330,45 +330,38 @@
     },
     {
       "rank": 47,
-      "country_code": "NED",
-      "name": "van Driel, E./Wies",
-      "played": 9,
-      "points": 3156.0
-    },
-    {
-      "rank": 48,
       "country_code": "CHN",
       "name": "J. Dong/Jiang K. Y.",
       "played": 9,
       "points": 3132.0
     },
     {
-      "rank": 49,
+      "rank": 48,
       "country_code": "SUI",
       "name": "Brunner/Hüberli",
       "played": 4,
       "points": 3120.0
     },
     {
-      "rank": 50,
-      "country_code": "ESP",
-      "name": "Vergara/González",
-      "played": 9,
-      "points": 3076.0
-    },
-    {
-      "rank": 51,
+      "rank": 49,
       "country_code": "BRA",
       "name": "Hegeile/Vitoria",
       "played": 8,
       "points": 3060.0
     },
     {
-      "rank": 52,
+      "rank": 50,
       "country_code": "FIN",
       "name": "Parkkinen/Prihti",
-      "played": 13,
-      "points": 3000.0
+      "played": 14,
+      "points": 3040.0
+    },
+    {
+      "rank": 51,
+      "country_code": "ESP",
+      "name": "Vergara/González",
+      "played": 8,
+      "points": 3036.0
     },
     {
       "rank": 52,
@@ -378,28 +371,35 @@
       "points": 3000.0
     },
     {
-      "rank": 54,
+      "rank": 53,
       "country_code": "BRA",
       "name": "Andressa/Tainá",
       "played": 11,
       "points": 2980.0
     },
     {
-      "rank": 55,
+      "rank": 54,
       "country_code": "LTU",
       "name": "Ievute/Kliokmanaite",
       "played": 8,
       "points": 2940.0
     },
     {
-      "rank": 55,
-      "country_code": "ROU",
-      "name": "Alupei/Vaida",
-      "played": 13,
+      "rank": 54,
+      "country_code": "NED",
+      "name": "van Driel, E./Wies",
+      "played": 8,
       "points": 2940.0
     },
     {
-      "rank": 55,
+      "rank": 54,
+      "country_code": "ROU",
+      "name": "Alupei/Vaida",
+      "played": 12,
+      "points": 2940.0
+    },
+    {
+      "rank": 54,
       "country_code": "USA",
       "name": "Van Winkle/Phillips",
       "played": 6,
@@ -414,38 +414,38 @@
     },
     {
       "rank": 59,
+      "country_code": "NED",
+      "name": "Negenman/Hogenhout",
+      "played": 9,
+      "points": 2856.0
+    },
+    {
+      "rank": 60,
       "country_code": "DEN",
       "name": "Bisgaard/Høg",
       "played": 7,
       "points": 2780.0
     },
     {
-      "rank": 59,
+      "rank": 60,
       "country_code": "NOR",
       "name": "Sunniva/Pavlova",
-      "played": 12,
+      "played": 13,
       "points": 2780.0
     },
     {
-      "rank": 61,
+      "rank": 62,
       "country_code": "USA",
       "name": "Durish/Koenig",
       "played": 5,
       "points": 2680.0
     },
     {
-      "rank": 62,
-      "country_code": "AUS",
-      "name": "Alchin/Johnson",
-      "played": 7,
-      "points": 2584.0
-    },
-    {
       "rank": 63,
-      "country_code": "NED",
-      "name": "Konink/Schoon",
-      "played": 6,
-      "points": 2560.0
+      "country_code": "UKR",
+      "name": "Makhno, In./Makhno, Ir.",
+      "played": 9,
+      "points": 2620.0
     },
     {
       "rank": 64,
@@ -456,48 +456,41 @@
     },
     {
       "rank": 65,
-      "country_code": "MEX",
-      "name": "Torres/Gutierrez",
-      "played": 12,
-      "points": 2532.0
-    },
-    {
-      "rank": 66,
       "country_code": "BRA",
       "name": "Carol Horta/Elize Maia",
       "played": 6,
       "points": 2500.0
     },
     {
-      "rank": 67,
+      "rank": 66,
       "country_code": "LTU",
       "name": "Kvedaraite/Saule",
-      "played": 10,
+      "played": 11,
       "points": 2480.0
     },
     {
-      "rank": 68,
+      "rank": 67,
       "country_code": "ARG",
       "name": "Abdala/Ghigliazza",
       "played": 15,
       "points": 2460.0
     },
     {
-      "rank": 68,
+      "rank": 67,
       "country_code": "USA",
       "name": "Urango/Rice",
       "played": 4,
       "points": 2460.0
     },
     {
-      "rank": 70,
+      "rank": 69,
       "country_code": "AUS",
       "name": "Clancy/Milutinovic",
       "played": 6,
       "points": 2440.0
     },
     {
-      "rank": 71,
+      "rank": 70,
       "country_code": "POL",
       "name": "Lunio/Okla",
       "played": 8,
@@ -505,10 +498,17 @@
     },
     {
       "rank": 71,
-      "country_code": "UKR",
-      "name": "Makhno, In./Makhno, Ir.",
-      "played": 9,
-      "points": 2420.0
+      "country_code": "MEX",
+      "name": "Torres/Gutierrez",
+      "played": 11,
+      "points": 2412.0
+    },
+    {
+      "rank": 72,
+      "country_code": "AUS",
+      "name": "Alchin/Johnson",
+      "played": 6,
+      "points": 2360.0
     },
     {
       "rank": 73,
@@ -526,34 +526,27 @@
     },
     {
       "rank": 75,
+      "country_code": "NED",
+      "name": "Konink/Schoon",
+      "played": 5,
+      "points": 2304.0
+    },
+    {
+      "rank": 76,
       "country_code": "BRA",
       "name": "Kyce/Simonetti",
       "played": 6,
       "points": 2300.0
     },
     {
-      "rank": 75,
+      "rank": 76,
       "country_code": "CAN",
       "name": "Bélanger/Monkhouse",
       "played": 5,
       "points": 2300.0
     },
     {
-      "rank": 77,
-      "country_code": "AUS",
-      "name": "Fleming/Fejes",
-      "played": 4,
-      "points": 2280.0
-    },
-    {
       "rank": 78,
-      "country_code": "THA",
-      "name": "Worapeerachayakorn/Naraphornrapat",
-      "played": 8,
-      "points": 2244.0
-    },
-    {
-      "rank": 79,
       "country_code": "CAN",
       "name": "Dunn/McKay",
       "played": 12,
@@ -561,115 +554,122 @@
     },
     {
       "rank": 79,
-      "country_code": "NED",
-      "name": "Negenman/Hogenhout",
-      "played": 7,
-      "points": 2240.0
-    },
-    {
-      "rank": 81,
       "country_code": "BRA",
       "name": "Thainara/Simonetti",
       "played": 4,
       "points": 2200.0
     },
     {
-      "rank": 82,
+      "rank": 80,
       "country_code": "UKR",
       "name": "Lazarenko/Kurnikova",
-      "played": 5,
-      "points": 2080.0
+      "played": 6,
+      "points": 2112.0
     },
     {
-      "rank": 83,
+      "rank": 81,
+      "country_code": "SVK",
+      "name": "Tokosova/Terenova",
+      "played": 14,
+      "points": 2020.0
+    },
+    {
+      "rank": 82,
       "country_code": "GER",
       "name": "Christ/Neuß",
-      "played": 10,
+      "played": 11,
       "points": 2016.0
     },
     {
+      "rank": 83,
+      "country_code": "AUS",
+      "name": "Fleming/Fejes",
+      "played": 3,
+      "points": 1960.0
+    },
+    {
       "rank": 84,
+      "country_code": "THA",
+      "name": "Worapeerachayakorn/Naraphornrapat",
+      "played": 7,
+      "points": 1956.0
+    },
+    {
+      "rank": 85,
       "country_code": "USA",
       "name": "Harward/Hodel",
       "played": 5,
       "points": 1940.0
     },
     {
-      "rank": 85,
-      "country_code": "SVK",
-      "name": "Terenova/Tokosova",
-      "played": 14,
-      "points": 1920.0
+      "rank": 86,
+      "country_code": "AUT",
+      "name": "Hohenauer L. /Berger",
+      "played": 12,
+      "points": 1902.0
     },
     {
-      "rank": 86,
+      "rank": 87,
       "country_code": "ARG",
       "name": "Churin/Michel Tosi",
       "played": 10,
       "points": 1892.0
     },
     {
-      "rank": 87,
+      "rank": 88,
       "country_code": "ESP",
       "name": "Izuzquiza/Tania",
       "played": 4,
       "points": 1876.0
     },
     {
-      "rank": 88,
-      "country_code": "NCA",
-      "name": "Lopez/LOLETTE",
-      "played": 11,
-      "points": 1848.0
-    },
-    {
       "rank": 89,
-      "country_code": "VAN",
-      "name": "Lawac/Toko",
+      "country_code": "CZE",
+      "name": "Lorenzova/Tomasova",
       "played": 9,
-      "points": 1756.0
+      "points": 1872.0
     },
     {
       "rank": 90,
+      "country_code": "NED",
+      "name": "Spaansen/Veerbeek",
+      "played": 10,
+      "points": 1860.0
+    },
+    {
+      "rank": 91,
+      "country_code": "CZE",
+      "name": "Dvorníková/Kleiblova",
+      "played": 11,
+      "points": 1832.0
+    },
+    {
+      "rank": 92,
+      "country_code": "NCA",
+      "name": "Lopez/LOLETTE",
+      "played": 11,
+      "points": 1824.0
+    },
+    {
+      "rank": 93,
       "country_code": "HUN",
       "name": "Vasvári, E./Vasvári, Z.",
       "played": 10,
       "points": 1744.0
     },
     {
-      "rank": 91,
-      "country_code": "AUT",
-      "name": "Hohenauer L. /Berger",
+      "rank": 94,
+      "country_code": "LAT",
+      "name": "Ēbere/Konstantinova",
       "played": 12,
-      "points": 1702.0
+      "points": 1724.0
     },
     {
-      "rank": 92,
-      "country_code": "JPN",
-      "name": "Sakura/Sawame",
-      "played": 11,
-      "points": 1700.0
-    },
-    {
-      "rank": 92,
+      "rank": 95,
       "country_code": "USA",
       "name": "Myszkowski/Kan",
       "played": 4,
       "points": 1700.0
-    },
-    {
-      "rank": 94,
-      "country_code": "CZE",
-      "name": "Dvorníková/Kleiblova",
-      "played": 9,
-      "points": 1680.0
-    },
-    {
-      "rank": 95,
-      "country_code": "NED",
-      "name": "Spaansen/Veerbeek",
-      "played": 9,
-      "points": 1656.0
     },
     {
       "rank": 96,
@@ -680,9 +680,9 @@
     },
     {
       "rank": 97,
-      "country_code": "LAT",
-      "name": "Ēbere/Konstantinova",
-      "played": 11,
+      "country_code": "MEX",
+      "name": "Torres/Flores",
+      "played": 6,
       "points": 1632.0
     },
     {
