@@ -16,7 +16,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "generated-rankings"
 WIKIPEDIA_PAGE = "https://pt.wikipedia.org/wiki/Ranking_da_Federa%C3%A7%C3%A3o_Internacional_de_Voleibol"
-WIKIPEDIA_API = "https://pt.wikipedia.org/w/api.php?action=parse&page=Ranking_da_Federa%C3%A7%C3%A3o_Internacional_de_Voleibol&prop=text&format=json&formatversion=2"
+WIKIPEDIA_API = "https://pt.wikipedia.org/w/api.php?action=parse&page=Ranking_da_Federa%C3%A7%C3%A3o_Internacional_de_Voleibol&prop=text&format=json&formatversion=2&redirects=1"
 BEACH_URLS = {
     "male": "https://www.beachup.app/pt/volei-praia-classificacao-mundial-homens/",
     "female": "https://www.beachup.app/pt/volei-praia-classificacao-mundial-mulheres/",
