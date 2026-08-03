@@ -5,20 +5,20 @@
   "source": "Wikipédia em português (dados atribuídos à página indicada)",
   "source_url": "https://pt.wikipedia.org/wiki/Ranking_da_Federa%C3%A7%C3%A3o_Internacional_de_Voleibol",
   "license": "CC BY-SA 4.0; consulte o histórico da página para autores",
-  "updated_at": "2026-07-20T00:00:00+00:00",
+  "updated_at": "2026-08-02T00:00:00+00:00",
   "teams": [
     {
       "rank": 1,
       "name": "Polônia",
       "country_code": "POL",
-      "points": 398.35,
+      "points": 407.56,
       "confederation": "CEV"
     },
     {
       "rank": 2,
       "name": "Itália",
       "country_code": "ITA",
-      "points": 368.01,
+      "points": 355.84,
       "confederation": "CEV"
     },
     {
@@ -30,24 +30,24 @@
     },
     {
       "rank": 4,
-      "name": "Japão",
-      "country_code": "JPN",
-      "points": 346.36,
-      "confederation": "AVC"
-    },
-    {
-      "rank": 5,
       "name": "Eslovênia",
       "country_code": "SLO",
-      "points": 337.15,
+      "points": 344.53,
       "confederation": "CEV"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Estados Unidos",
       "country_code": "USA",
-      "points": 328.7,
+      "points": 344.41,
       "confederation": "NORCECA"
+    },
+    {
+      "rank": 6,
+      "name": "Japão",
+      "country_code": "JPN",
+      "points": 333.33,
+      "confederation": "AVC"
     },
     {
       "rank": 7,
@@ -65,23 +65,23 @@
     },
     {
       "rank": 9,
-      "name": "Turquia",
-      "country_code": "TUR",
-      "points": 275.14,
-      "confederation": "CEV"
-    },
-    {
-      "rank": 10,
       "name": "Bulgária",
       "country_code": "BUL",
       "points": 272.25,
       "confederation": "CEV"
     },
     {
+      "rank": 10,
+      "name": "Turquia",
+      "country_code": "TUR",
+      "points": 268.49,
+      "confederation": "CEV"
+    },
+    {
       "rank": 11,
       "name": "Ucrânia",
       "country_code": "UKR",
-      "points": 247.59,
+      "points": 247.16,
       "confederation": "CEV"
     },
     {
@@ -163,17 +163,17 @@
     },
     {
       "rank": 23,
-      "name": "Catar",
-      "country_code": "QAT",
-      "points": 153.24,
-      "confederation": "AVC"
-    },
-    {
-      "rank": 24,
       "name": "Grécia",
       "country_code": "GRE",
       "points": 148.96,
       "confederation": "CEV"
+    },
+    {
+      "rank": 24,
+      "name": "Catar",
+      "country_code": "QAT",
+      "points": 147.82,
+      "confederation": "AVC"
     },
     {
       "rank": 25,
