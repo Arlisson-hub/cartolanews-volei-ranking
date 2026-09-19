@@ -4,7 +4,7 @@
   "gender": "male",
   "source": "BeachUp",
   "source_url": "https://www.beachup.app/pt/volei-praia-classificacao-mundial-homens/",
-  "updated_at": "2026-09-07T00:00:00+00:00",
+  "updated_at": "2026-09-14T00:00:00+00:00",
   "teams": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
     {
       "rank": 8,
       "country_code": "AUT",
-      "name": "Hammarberg/Berger T.",
-      "played": 13,
+      "name": "Berger T./Hammarberg",
+      "played": 14,
       "points": 6280.0
     },
     {
@@ -248,7 +248,7 @@
       "rank": 35,
       "country_code": "AUT",
       "name": "Pascariuc P./Horst",
-      "played": 9,
+      "played": 10,
       "points": 3804.0
     },
     {
@@ -276,8 +276,8 @@
       "rank": 39,
       "country_code": "AUT",
       "name": "Waller/Pristauz",
-      "played": 7,
-      "points": 3696.0
+      "played": 8,
+      "points": 3736.0
     },
     {
       "rank": 40,
@@ -325,7 +325,7 @@
       "rank": 46,
       "country_code": "MEX",
       "name": "Carlos Andres/Lares",
-      "played": 14,
+      "played": 13,
       "points": 3120.0
     },
     {
@@ -367,7 +367,7 @@
       "rank": 52,
       "country_code": "AUT",
       "name": "Hörl/Grössig",
-      "played": 11,
+      "played": 12,
       "points": 2864.0
     },
     {
@@ -535,7 +535,7 @@
       "rank": 76,
       "country_code": "HUN",
       "name": "Tari/Niemeier",
-      "played": 9,
+      "played": 10,
       "points": 2200.0
     },
     {
@@ -616,31 +616,31 @@
       "points": 1920.0
     },
     {
-      "rank": 87,
-      "country_code": "CUB",
-      "name": "Alayo/Diaz",
-      "played": 3,
-      "points": 1920.0
-    },
-    {
-      "rank": 89,
+      "rank": 88,
       "country_code": "LTU",
       "name": "Rumsevicius/Palubinskas",
       "played": 11,
       "points": 1912.0
     },
     {
-      "rank": 90,
+      "rank": 89,
       "country_code": "CHN",
       "name": "Wu Jiaxin/Ch. W. Zhou",
       "played": 6,
       "points": 1904.0
     },
     {
-      "rank": 91,
+      "rank": 90,
       "country_code": "BRA",
       "name": "Zuliani/Joao Mares",
       "played": 6,
+      "points": 1900.0
+    },
+    {
+      "rank": 90,
+      "country_code": "CUB",
+      "name": "Alayo/Diaz",
+      "played": 2,
       "points": 1900.0
     },
     {
@@ -661,7 +661,7 @@
       "rank": 94,
       "country_code": "JPN",
       "name": "Takahashi/Ikeda",
-      "played": 12,
+      "played": 13,
       "points": 1840.0
     },
     {
@@ -675,7 +675,7 @@
       "rank": 96,
       "country_code": "JPN",
       "name": "KAI/Adachi",
-      "played": 13,
+      "played": 14,
       "points": 1816.0
     },
     {
