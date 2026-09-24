@@ -5,217 +5,217 @@
   "source": "Wikipédia em português (dados atribuídos à página indicada)",
   "source_url": "https://pt.wikipedia.org/wiki/Ranking_da_Federa%C3%A7%C3%A3o_Internacional_de_Voleibol",
   "license": "CC BY-SA 4.0; consulte o histórico da página para autores",
-  "updated_at": "2026-07-28T00:00:00+00:00",
+  "updated_at": "2026-09-23T00:00:00+00:00",
   "teams": [
     {
       "rank": 1,
       "name": "Itália",
       "country_code": "ITA",
-      "points": 461.17,
+      "points": 455.25,
       "confederation": "CEV"
     },
     {
       "rank": 2,
       "name": "Brasil",
       "country_code": "BRA",
-      "points": 403.61,
+      "points": 406.45,
       "confederation": "CSV"
     },
     {
       "rank": 3,
       "name": "Turquia",
       "country_code": "TUR",
-      "points": 388.35,
+      "points": 398.15,
       "confederation": "CEV"
     },
     {
       "rank": 4,
       "name": "Estados Unidos",
       "country_code": "USA",
-      "points": 363.57,
+      "points": 352.7,
       "confederation": "NORCECA"
     },
     {
       "rank": 5,
       "name": "Polônia",
       "country_code": "POL",
-      "points": 338.37,
+      "points": 346.37,
       "confederation": "CEV"
     },
     {
       "rank": 6,
       "name": "Japão",
       "country_code": "JPN",
-      "points": 331.36,
+      "points": 323.69,
       "confederation": "AVC"
     },
     {
       "rank": 7,
       "name": "China",
       "country_code": "CHN",
-      "points": 315.51,
+      "points": 311.83,
       "confederation": "AVC"
     },
     {
       "rank": 8,
-      "name": "Países Baixos",
-      "country_code": "NED",
-      "points": 292.64,
-      "confederation": "CEV"
+      "name": "Canadá",
+      "country_code": "CAN",
+      "points": 307.82,
+      "confederation": "NORCECA"
     },
     {
       "rank": 9,
+      "name": "Sérvia",
+      "country_code": "SRB",
+      "points": 302.74,
+      "confederation": "CEV"
+    },
+    {
+      "rank": 10,
+      "name": "Países Baixos",
+      "country_code": "NED",
+      "points": 283.15,
+      "confederation": "CEV"
+    },
+    {
+      "rank": 11,
       "name": "Rússia",
       "country_code": "RUS",
       "points": 277.59,
       "confederation": "CEV"
     },
     {
-      "rank": 10,
-      "name": "Sérvia",
-      "country_code": "SRB",
-      "points": 276.38,
-      "confederation": "CEV"
-    },
-    {
-      "rank": 11,
-      "name": "Canadá",
-      "country_code": "CAN",
-      "points": 273.76,
-      "confederation": "NORCECA"
-    },
-    {
       "rank": 12,
       "name": "Alemanha",
       "country_code": "GER",
-      "points": 253.62,
+      "points": 242.77,
       "confederation": "CEV"
     },
     {
       "rank": 13,
-      "name": "República Dominicana",
-      "country_code": "DOM",
-      "points": 230.37,
-      "confederation": "NORCECA"
+      "name": "Tailândia",
+      "country_code": "THA",
+      "points": 230.67,
+      "confederation": "AVC"
     },
     {
       "rank": 14,
-      "name": "Chéquia",
-      "country_code": "CZE",
-      "points": 220.41,
-      "confederation": "CEV"
+      "name": "República Dominicana",
+      "country_code": "DOM",
+      "points": 222.3,
+      "confederation": "NORCECA"
     },
     {
       "rank": 15,
-      "name": "França",
-      "country_code": "FRA",
-      "points": 207.28,
+      "name": "Chéquia",
+      "country_code": "CZE",
+      "points": 219.55,
       "confederation": "CEV"
     },
     {
       "rank": 16,
       "name": "Bélgica",
       "country_code": "BEL",
-      "points": 195.58,
+      "points": 217.74,
       "confederation": "CEV"
     },
     {
       "rank": 17,
-      "name": "Tailândia",
-      "country_code": "THA",
-      "points": 189.26,
-      "confederation": "AVC"
+      "name": "França",
+      "country_code": "FRA",
+      "points": 212.35,
+      "confederation": "CEV"
     },
     {
       "rank": 18,
-      "name": "Ucrânia",
-      "country_code": "UKR",
-      "points": 188.1,
+      "name": "Eslovênia",
+      "country_code": "SLO",
+      "points": 199.2,
       "confederation": "CEV"
     },
     {
       "rank": 19,
-      "name": "Eslovênia",
-      "country_code": "SLO",
-      "points": 182.01,
+      "name": "Suécia",
+      "country_code": "SWE",
+      "points": 194.61,
       "confederation": "CEV"
     },
     {
       "rank": 20,
       "name": "Argentina",
       "country_code": "ARG",
-      "points": 181.09,
+      "points": 193.79,
       "confederation": "CSV"
     },
     {
       "rank": 21,
-      "name": "Suécia",
-      "country_code": "SWE",
-      "points": 180.54,
-      "confederation": "CEV"
+      "name": "México",
+      "country_code": "MEX",
+      "points": 182.72,
+      "confederation": "NORCECA"
     },
     {
       "rank": 22,
-      "name": "México",
-      "country_code": "MEX",
-      "points": 178.93,
+      "name": "Cuba",
+      "country_code": "CUB",
+      "points": 167.07,
       "confederation": "NORCECA"
     },
     {
       "rank": 23,
-      "name": "Colômbia",
-      "country_code": "COL",
-      "points": 172.55,
-      "confederation": "CSV"
+      "name": "Ucrânia",
+      "country_code": "UKR",
+      "points": 164.93,
+      "confederation": "CEV"
     },
     {
       "rank": 24,
       "name": "Quênia",
       "country_code": "KEN",
-      "points": 158.49,
+      "points": 164.27,
       "confederation": "CAVB"
     },
     {
       "rank": 25,
-      "name": "Porto Rico",
-      "country_code": "PUR",
-      "points": 154.74,
-      "confederation": "NORCECA"
+      "name": "Colômbia",
+      "country_code": "COL",
+      "points": 162.22,
+      "confederation": "CSV"
     },
     {
       "rank": 26,
-      "name": "Hungria",
-      "country_code": "HUN",
-      "points": 149.28,
+      "name": "Grécia",
+      "country_code": "GRE",
+      "points": 161.45,
       "confederation": "CEV"
     },
     {
       "rank": 27,
-      "name": "Romênia",
-      "country_code": "ROU",
-      "points": 142.4,
-      "confederation": "CEV"
-    },
-    {
-      "rank": 28,
-      "name": "Vietnã",
-      "country_code": "VIE",
-      "points": 142.26,
+      "name": "Coreia do Sul",
+      "country_code": "KOR",
+      "points": 142.73,
       "confederation": "AVC"
     },
     {
+      "rank": 28,
+      "name": "Porto Rico",
+      "country_code": "PUR",
+      "points": 141.29,
+      "confederation": "NORCECA"
+    },
+    {
       "rank": 29,
-      "name": "Grécia",
-      "country_code": "GRE",
-      "points": 138.71,
+      "name": "Bulgária",
+      "country_code": "BUL",
+      "points": 134.12,
       "confederation": "CEV"
     },
     {
       "rank": 30,
-      "name": "Coreia do Sul",
-      "country_code": "KOR",
-      "points": 138.56,
-      "confederation": "AVC"
+      "name": "Suíça",
+      "country_code": "SUI",
+      "points": 131.15,
+      "confederation": "CEV"
     }
   ]
 }
