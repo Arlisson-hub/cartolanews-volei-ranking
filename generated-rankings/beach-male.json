@@ -4,7 +4,7 @@
   "gender": "male",
   "source": "BeachUp",
   "source_url": "https://www.beachup.app/pt/volei-praia-classificacao-mundial-homens/",
-  "updated_at": "2026-09-28T00:00:00+00:00",
+  "updated_at": "2026-10-05T00:00:00+00:00",
   "teams": [
     {
       "rank": 1,
@@ -85,30 +85,30 @@
     },
     {
       "rank": 12,
-      "country_code": "ITA",
-      "name": "Cottafava/Dal Corso",
-      "played": 12,
-      "points": 5360.0
-    },
-    {
-      "rank": 13,
-      "country_code": "CHI",
-      "name": "Grimalt M./Grimalt E.",
-      "played": 13,
-      "points": 5320.0
-    },
-    {
-      "rank": 14,
       "country_code": "FRA",
       "name": "Chouikh/Genevieve-Gardoque",
       "played": 12,
       "points": 5300.0
     },
     {
+      "rank": 13,
+      "country_code": "CHI",
+      "name": "Grimalt M./Grimalt E.",
+      "played": 12,
+      "points": 5240.0
+    },
+    {
+      "rank": 14,
+      "country_code": "ITA",
+      "name": "Cottafava/Dal Corso",
+      "played": 11,
+      "points": 5140.0
+    },
+    {
       "rank": 15,
       "country_code": "ISR",
       "name": "Elazar/Cuzmiciov",
-      "played": 11,
+      "played": 10,
       "points": 5120.0
     },
     {
@@ -134,304 +134,304 @@
     },
     {
       "rank": 19,
-      "country_code": "CAN",
-      "name": "Schachter/Pickett",
-      "played": 9,
-      "points": 4360.0
+      "country_code": "QAT",
+      "name": "Cherif/Ahmed",
+      "played": 7,
+      "points": 4380.0
     },
     {
       "rank": 20,
+      "country_code": "CAN",
+      "name": "Schachter/Pickett",
+      "played": 8,
+      "points": 4360.0
+    },
+    {
+      "rank": 21,
       "country_code": "USA",
       "name": "Crabb/Benesh",
       "played": 6,
       "points": 4180.0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "country_code": "BRA",
       "name": "Arthur/Adrielson",
       "played": 8,
       "points": 4160.0
     },
     {
-      "rank": 22,
-      "country_code": "QAT",
-      "name": "Cherif/Ahmed",
-      "played": 6,
-      "points": 4140.0
-    },
-    {
       "rank": 23,
-      "country_code": "ENG",
-      "name": "Bello, Ja./Bello, Jo.",
-      "played": 11,
-      "points": 4040.0
-    },
-    {
-      "rank": 24,
-      "country_code": "NOR",
-      "name": "Ringøen/Aas",
-      "played": 9,
-      "points": 4028.0
-    },
-    {
-      "rank": 25,
       "country_code": "ARG",
       "name": "Amieva/Bueno",
       "played": 17,
       "points": 4000.0
     },
     {
-      "rank": 26,
-      "country_code": "GER",
-      "name": "Sagstetter, J./Sagstetter, B.",
-      "played": 12,
-      "points": 3960.0
-    },
-    {
-      "rank": 27,
+      "rank": 24,
       "country_code": "POL",
       "name": "Łosiak/Bryl",
       "played": 6,
       "points": 3920.0
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "country_code": "GER",
+      "name": "Sagstetter, J./Sagstetter, B.",
+      "played": 11,
+      "points": 3900.0
+    },
+    {
+      "rank": 26,
       "country_code": "BEL",
       "name": "Van Langendonck/Vercauteren",
-      "played": 13,
+      "played": 12,
       "points": 3820.0
     },
     {
-      "rank": 29,
+      "rank": 27,
       "country_code": "AUT",
       "name": "Pascariuc P./Horst",
       "played": 10,
       "points": 3804.0
     },
     {
-      "rank": 30,
-      "country_code": "ESP",
-      "name": "Huerta A./Gavira",
-      "played": 11,
+      "rank": 28,
+      "country_code": "ENG",
+      "name": "Bello, Ja./Bello, Jo.",
+      "played": 10,
       "points": 3800.0
     },
     {
-      "rank": 30,
+      "rank": 28,
       "country_code": "ITA",
       "name": "Alfieri/Ranghieri",
-      "played": 15,
+      "played": 14,
       "points": 3800.0
     },
     {
-      "rank": 32,
+      "rank": 30,
+      "country_code": "NOR",
+      "name": "Ringøen/Aas",
+      "played": 8,
+      "points": 3788.0
+    },
+    {
+      "rank": 31,
       "country_code": "AUS",
       "name": "Pearse/Potts",
       "played": 14,
       "points": 3772.0
     },
     {
-      "rank": 33,
+      "rank": 32,
       "country_code": "BRA",
       "name": "Adelmo/Mateus",
       "played": 8,
       "points": 3740.0
     },
     {
-      "rank": 34,
+      "rank": 33,
       "country_code": "AUT",
       "name": "Waller/Pristauz",
       "played": 8,
       "points": 3736.0
     },
     {
-      "rank": 35,
+      "rank": 34,
       "country_code": "LAT",
       "name": "Bedritis/Rinkevics",
       "played": 14,
       "points": 3640.0
     },
     {
-      "rank": 36,
-      "country_code": "POR",
-      "name": "Pedrosa/Campos",
-      "played": 11,
-      "points": 3580.0
+      "rank": 35,
+      "country_code": "ESP",
+      "name": "Huerta A./Gavira",
+      "played": 10,
+      "points": 3556.0
     },
     {
-      "rank": 37,
+      "rank": 36,
       "country_code": "NED",
       "name": "Boermans/Brouwer",
       "played": 6,
       "points": 3476.0
     },
     {
+      "rank": 37,
+      "country_code": "POR",
+      "name": "Pedrosa/Campos",
+      "played": 10,
+      "points": 3460.0
+    },
+    {
       "rank": 38,
       "country_code": "USA",
       "name": "Cory/Bradford",
-      "played": 9,
-      "points": 3360.0
-    },
-    {
-      "rank": 38,
-      "country_code": "USA",
-      "name": "Evans/Budinger",
-      "played": 5,
-      "points": 3360.0
-    },
-    {
-      "rank": 40,
-      "country_code": "BRA",
-      "name": "George/Saymon",
-      "played": 6,
-      "points": 3340.0
-    },
-    {
-      "rank": 40,
-      "country_code": "CZE",
-      "name": "Sepka/Sedlak",
       "played": 8,
-      "points": 3340.0
+      "points": 3360.0
     },
     {
-      "rank": 42,
-      "country_code": "USA",
-      "name": "Schalk/Shaw",
-      "played": 5,
-      "points": 3220.0
-    },
-    {
-      "rank": 43,
+      "rank": 39,
       "country_code": "NED",
       "name": "Luini/Immers",
       "played": 7,
       "points": 3212.0
     },
     {
-      "rank": 44,
-      "country_code": "MEX",
-      "name": "Carlos Andres/Lares",
-      "played": 12,
+      "rank": 40,
+      "country_code": "CZE",
+      "name": "Sepka/Sedlak",
+      "played": 7,
       "points": 3120.0
     },
     {
-      "rank": 45,
+      "rank": 41,
       "country_code": "CZE",
       "name": "Semerad/Stocek",
       "played": 13,
       "points": 3100.0
     },
     {
-      "rank": 46,
+      "rank": 42,
       "country_code": "GER",
       "name": "Winter/Huster",
       "played": 8,
       "points": 3096.0
     },
     {
-      "rank": 47,
+      "rank": 43,
       "country_code": "BRA",
       "name": "Vinicius/Heitor",
       "played": 9,
       "points": 3092.0
     },
     {
-      "rank": 48,
+      "rank": 44,
       "country_code": "SUI",
       "name": "Heidrich/Haussener",
       "played": 10,
       "points": 3000.0
     },
     {
-      "rank": 48,
+      "rank": 44,
       "country_code": "SUI",
       "name": "Krattiger/Dillier",
       "played": 5,
       "points": 3000.0
     },
     {
-      "rank": 50,
+      "rank": 46,
       "country_code": "USA",
       "name": "Brewster/Webber",
       "played": 7,
       "points": 2980.0
     },
     {
-      "rank": 51,
+      "rank": 47,
+      "country_code": "MEX",
+      "name": "Carlos Andres/Lares",
+      "played": 11,
+      "points": 2948.0
+    },
+    {
+      "rank": 48,
       "country_code": "USA",
       "name": "Crabb Tr./Budinger",
       "played": 4,
       "points": 2920.0
     },
     {
-      "rank": 52,
+      "rank": 49,
       "country_code": "AUT",
       "name": "Hörl/Grössig",
       "played": 12,
       "points": 2864.0
     },
     {
-      "rank": 53,
+      "rank": 50,
       "country_code": "NED",
       "name": "van de Velde/de Groot",
       "played": 4,
       "points": 2860.0
     },
     {
-      "rank": 54,
+      "rank": 51,
       "country_code": "POL",
       "name": "Krzeminski/Czachorowski",
       "played": 14,
       "points": 2800.0
     },
     {
-      "rank": 55,
+      "rank": 52,
       "country_code": "ENG",
       "name": "Bialokoz/Batrane",
-      "played": 14,
+      "played": 13,
       "points": 2760.0
     },
     {
-      "rank": 56,
+      "rank": 53,
+      "country_code": "INA",
+      "name": "Bintang/Sofyan",
+      "played": 8,
+      "points": 2708.0
+    },
+    {
+      "rank": 54,
       "country_code": "GER",
       "name": "Just/Wüst",
       "played": 8,
       "points": 2680.0
     },
     {
-      "rank": 57,
+      "rank": 55,
       "country_code": "GER",
       "name": "Ehlers/Wüst",
       "played": 6,
       "points": 2660.0
     },
     {
-      "rank": 58,
+      "rank": 56,
       "country_code": "GER",
       "name": "Ehlers/Wickler",
       "played": 3,
       "points": 2640.0
     },
     {
-      "rank": 59,
+      "rank": 57,
+      "country_code": "USA",
+      "name": "Schalk/Shaw",
+      "played": 4,
+      "points": 2620.0
+    },
+    {
+      "rank": 58,
       "country_code": "BRA",
       "name": "Henrique/Manaus",
       "played": 10,
       "points": 2616.0
     },
     {
-      "rank": 60,
+      "rank": 59,
       "country_code": "USA",
       "name": "Caldwell/La Bouliere",
       "played": 6,
       "points": 2600.0
     },
     {
+      "rank": 59,
+      "country_code": "USA",
+      "name": "Evans/Budinger",
+      "played": 4,
+      "points": 2600.0
+    },
+    {
       "rank": 61,
-      "country_code": "INA",
-      "name": "Bintang/Sofyan",
-      "played": 7,
-      "points": 2492.0
+      "country_code": "BRA",
+      "name": "George/Saymon",
+      "played": 5,
+      "points": 2540.0
     },
     {
       "rank": 62,
@@ -486,7 +486,7 @@
       "rank": 69,
       "country_code": "CAN",
       "name": "de Greeff/Gannett",
-      "played": 11,
+      "played": 10,
       "points": 2296.0
     },
     {
@@ -540,45 +540,45 @@
     },
     {
       "rank": 77,
+      "country_code": "CHN",
+      "name": "Wu Jiaxin/Ch. W. Zhou",
+      "played": 7,
+      "points": 2048.0
+    },
+    {
+      "rank": 78,
       "country_code": "CUB",
       "name": "Gomez/Veranes",
       "played": 6,
       "points": 1992.0
     },
     {
-      "rank": 78,
+      "rank": 79,
       "country_code": "GER",
       "name": "Henning/Pfretzschner, L.",
       "played": 8,
       "points": 1974.0
     },
     {
-      "rank": 79,
+      "rank": 80,
       "country_code": "UKR",
       "name": "Moiseiev/Savvin",
       "played": 9,
       "points": 1956.0
     },
     {
-      "rank": 80,
+      "rank": 81,
       "country_code": "THA",
       "name": "T.Pithak/M.Wachirawit",
       "played": 7,
       "points": 1952.0
     },
     {
-      "rank": 81,
+      "rank": 82,
       "country_code": "NOR",
       "name": "Klungsøyr/Pedersen",
       "played": 10,
       "points": 1940.0
-    },
-    {
-      "rank": 82,
-      "country_code": "AUT",
-      "name": "Dressler/Waller",
-      "played": 3,
-      "points": 1920.0
     },
     {
       "rank": 83,
@@ -589,122 +589,122 @@
     },
     {
       "rank": 84,
-      "country_code": "CHN",
-      "name": "Wu Jiaxin/Ch. W. Zhou",
-      "played": 6,
-      "points": 1904.0
-    },
-    {
-      "rank": 85,
       "country_code": "BRA",
       "name": "Zuliani/Joao Mares",
       "played": 6,
       "points": 1900.0
     },
     {
-      "rank": 86,
+      "rank": 85,
       "country_code": "AUS",
       "name": "Bushby/Schumann",
       "played": 11,
       "points": 1880.0
     },
     {
-      "rank": 87,
-      "country_code": "AUT",
-      "name": "Horst/Pristauz",
-      "played": 4,
-      "points": 1860.0
-    },
-    {
-      "rank": 88,
+      "rank": 86,
       "country_code": "JPN",
       "name": "Takahashi/Ikeda",
       "played": 12,
       "points": 1840.0
     },
     {
-      "rank": 88,
-      "country_code": "USA",
-      "name": "Harrison/Caldwell",
-      "played": 5,
-      "points": 1840.0
-    },
-    {
-      "rank": 90,
+      "rank": 87,
       "country_code": "JPN",
       "name": "KAI/Adachi",
       "played": 13,
       "points": 1816.0
     },
     {
-      "rank": 91,
+      "rank": 88,
       "country_code": "CHN",
       "name": "Wang Y. W./DU Hongjun",
       "played": 7,
       "points": 1804.0
     },
     {
-      "rank": 92,
+      "rank": 89,
       "country_code": "BOT",
       "name": "Jack/Chiswaniso",
       "played": 10,
       "points": 1776.0
     },
     {
-      "rank": 93,
+      "rank": 90,
+      "country_code": "KAZ",
+      "name": "Bogatu/Gurin",
+      "played": 10,
+      "points": 1768.0
+    },
+    {
+      "rank": 90,
       "country_code": "LAT",
       "name": "Bulgacs O./Graudins",
       "played": 9,
       "points": 1768.0
     },
     {
-      "rank": 94,
-      "country_code": "USA",
-      "name": "Brewster/Ierna",
-      "played": 5,
-      "points": 1760.0
-    },
-    {
-      "rank": 95,
+      "rank": 92,
       "country_code": "CAN",
       "name": "Rahnavard/Kemp",
       "played": 7,
       "points": 1756.0
     },
     {
-      "rank": 95,
+      "rank": 92,
       "country_code": "DEN",
       "name": "Brinck/Houmann",
       "played": 5,
       "points": 1756.0
     },
     {
-      "rank": 97,
+      "rank": 94,
       "country_code": "ANG",
       "name": "Carlos/Afonso",
       "played": 6,
       "points": 1736.0
     },
     {
-      "rank": 98,
-      "country_code": "KAZ",
-      "name": "Bogatu/Gurin",
-      "played": 9,
-      "points": 1732.0
-    },
-    {
-      "rank": 99,
+      "rank": 95,
       "country_code": "CZE",
       "name": "Dumek/Westphal",
       "played": 10,
       "points": 1724.0
     },
     {
-      "rank": 100,
+      "rank": 96,
       "country_code": "SWE",
       "name": "Grahn/Isaksson",
       "played": 8,
       "points": 1704.0
+    },
+    {
+      "rank": 97,
+      "country_code": "GER",
+      "name": "Fröbel/Wüst",
+      "played": 14,
+      "points": 1692.0
+    },
+    {
+      "rank": 98,
+      "country_code": "UKR",
+      "name": "Likhatskyi/Likhatskyi",
+      "played": 10,
+      "points": 1680.0
+    },
+    {
+      "rank": 99,
+      "country_code": "GUA",
+      "name": "Maldonado/Izaguirre",
+      "played": 10,
+      "points": 1672.0
+    },
+    {
+      "rank": 100,
+      "country_code": "USA",
+      "name": "Crabb Tr./Crabb",
+      "played": 2,
+      "points": 1660.0
     }
   ]
 }
