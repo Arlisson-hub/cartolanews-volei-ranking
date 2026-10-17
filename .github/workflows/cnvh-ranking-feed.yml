@@ -8,9 +8,17 @@ on:
 permissions:
   contents: write
 
+# Um commit por vez em generated-rankings/: duas execucoes juntas brigariam no push.
+concurrency:
+  group: cnvh-ranking-feed
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    # Medido em 30 dias: mediana 8 s, maximo 17 s. Repositorio publico (sem
+    # cobranca), mas sem teto uma execucao presa ficaria ate 6 h.
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
