@@ -4,7 +4,7 @@
   "gender": "female",
   "source": "BeachUp",
   "source_url": "https://www.beachup.app/pt/volei-praia-classificacao-mundial-mulheres/",
-  "updated_at": "2026-11-09T00:00:00+00:00",
+  "updated_at": "2026-11-16T00:00:00+00:00",
   "teams": [
     {
       "rank": 1,
@@ -23,7 +23,7 @@
     {
       "rank": 3,
       "country_code": "NED",
-      "name": "Stam/Schoon",
+      "name": "Nijeboer/Schoon",
       "played": 11,
       "points": 7020.0
     },
@@ -86,7 +86,7 @@
     {
       "rank": 12,
       "country_code": "CHN",
-      "name": "X. Y. Xia/Yan X.",
+      "name": "Yan X./X. Y. Xia",
       "played": 13,
       "points": 4780.0
     },
@@ -114,7 +114,7 @@
     {
       "rank": 16,
       "country_code": "BRA",
-      "name": "Thainara/Verena",
+      "name": "Verena/Thainara",
       "played": 11,
       "points": 4240.0
     },
@@ -219,7 +219,7 @@
     {
       "rank": 31,
       "country_code": "PUR",
-      "name": "Navas/Gonzalez",
+      "name": "Gonzalez/Navas",
       "played": 11,
       "points": 3636.0
     },
@@ -296,7 +296,7 @@
     {
       "rank": 42,
       "country_code": "CHN",
-      "name": "J. Dong/Jiang K. Y.",
+      "name": "Jiang K. Y./J. Dong",
       "played": 9,
       "points": 3132.0
     },
@@ -387,7 +387,7 @@
     {
       "rank": 55,
       "country_code": "ARG",
-      "name": "Abdala/Ghigliazza",
+      "name": "Ghigliazza/Abdala",
       "played": 18,
       "points": 2724.0
     },
@@ -415,14 +415,14 @@
     {
       "rank": 59,
       "country_code": "MEX",
-      "name": "Flores/Torres",
+      "name": "Torres/Flores",
       "played": 9,
       "points": 2568.0
     },
     {
       "rank": 60,
       "country_code": "CHN",
-      "name": "Zhou M. L./Kadeliye",
+      "name": "Kadeliye/Zhou M. L.",
       "played": 10,
       "points": 2552.0
     },
@@ -471,7 +471,7 @@
     {
       "rank": 67,
       "country_code": "CAN",
-      "name": "Bélanger/Monkhouse",
+      "name": "Monkhouse/Bélanger",
       "played": 5,
       "points": 2240.0
     },
@@ -506,14 +506,14 @@
     {
       "rank": 72,
       "country_code": "ARG",
-      "name": "Churin/Michel Tosi",
+      "name": "Michel Tosi/Churin",
       "played": 12,
       "points": 2152.0
     },
     {
       "rank": 73,
       "country_code": "BRA",
-      "name": "Carol Horta/Elize Maia",
+      "name": "Elize Maia/Carol Horta",
       "played": 5,
       "points": 2120.0
     },
@@ -547,78 +547,78 @@
     },
     {
       "rank": 78,
+      "country_code": "PER",
+      "name": "Gaona/Allcca",
+      "played": 8,
+      "points": 2040.0
+    },
+    {
+      "rank": 79,
+      "country_code": "BRA",
+      "name": "Carol/Giulia",
+      "played": 9,
+      "points": 2004.0
+    },
+    {
+      "rank": 80,
       "country_code": "PHI",
       "name": "Progella/Pagara",
       "played": 8,
       "points": 1996.0
     },
     {
-      "rank": 79,
+      "rank": 81,
       "country_code": "LTU",
-      "name": "Kvedaraite/Saule",
+      "name": "Saule/Kvedaraite",
       "played": 10,
       "points": 1960.0
     },
     {
-      "rank": 80,
+      "rank": 82,
       "country_code": "BRA",
-      "name": "Hegeile/Vitoria",
+      "name": "Vitoria/Hegeile",
       "played": 6,
       "points": 1920.0
     },
     {
-      "rank": 80,
+      "rank": 82,
       "country_code": "NED",
-      "name": "Spaansen/Veerbeek",
+      "name": "Veerbeek/Spaansen",
       "played": 13,
       "points": 1920.0
     },
     {
-      "rank": 82,
-      "country_code": "BRA",
-      "name": "Giulia/Carol",
-      "played": 8,
-      "points": 1864.0
-    },
-    {
-      "rank": 83,
+      "rank": 84,
       "country_code": "GER",
       "name": "Beutel/Schürholz",
       "played": 11,
       "points": 1812.0
     },
     {
-      "rank": 84,
+      "rank": 85,
       "country_code": "POL",
-      "name": "Lunio/Okla",
+      "name": "Okla/Lunio",
       "played": 6,
       "points": 1800.0
     },
     {
-      "rank": 85,
+      "rank": 86,
       "country_code": "NCA",
       "name": "Lopez/LOLETTE",
       "played": 10,
       "points": 1776.0
     },
     {
-      "rank": 86,
+      "rank": 87,
       "country_code": "GER",
       "name": "Bock/Lippmann",
       "played": 5,
       "points": 1772.0
     },
     {
-      "rank": 87,
-      "country_code": "PER",
-      "name": "Allcca/Gaona",
-      "played": 7,
-      "points": 1752.0
-    },
-    {
       "rank": 88,
       "country_code": "ISR",
-      "name": "Gonzalez/Danenberg",
+      "name": "Danenberg/Gonzalez",
       "played": 11,
       "points": 1728.0
     },
@@ -681,7 +681,7 @@
     {
       "rank": 97,
       "country_code": "AUT",
-      "name": "Shkarupa/Rabitsch Mag.",
+      "name": "Rabitsch Mag./Shkarupa",
       "played": 10,
       "points": 1644.0
     },
